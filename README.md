@@ -47,12 +47,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Dependencies
 
-### `npm install redux redux-react redux-thunk`
+### `npm install redux redux-react`
 
-### `npm install redux-mock-store`
+### `npm -i uuidv4`
 
-### `npm i --save-dev @types/redux-mock-store`
-
-### `npm -i uuid`
-
-### `npm i -d @types/uuid`
+### `npm i -d @types/uuidv4`
